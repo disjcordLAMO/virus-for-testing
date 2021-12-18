@@ -1,2 +1,2 @@
 # virus-for-testing
-make in a virual maschine!!!!!!!
+make in a virtual maschine!!!!!!!
